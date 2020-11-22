@@ -5,5 +5,5 @@ We are ITES 360 Team
 <B>Its following git feature braching workflow<b>
   
   ## Section -1
-  -list 1
-  list 2
+  - list 1
+  - list 2
